@@ -21,12 +21,11 @@ Format of a task line:
 ## Now
 Actively being worked on. Keep this to 3 items or fewer.
 
-_Nothing yet._
+- [ ] #2 (P1) Investigate and create JIRA for the TODO issue Glenn reported in Teams 2026-09-08 (refs: Östlund, Sara Norlund)  @work
 
 ## Next
 Committed to, but not started yet.
 
-- [ ] #2 (P1) Investigate and create JIRA for the TODO issue Glenn reported in Teams 2026-09-08 (refs: Östlund, Sara Norlund)  @work
 - [ ] #4 (P2) Set up remote git repo  @meta
 - [ ] #5 (P2) Implement JIRA tasks QUAN-2675 and QUAN-2676  @work
 
