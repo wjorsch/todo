@@ -1,0 +1,46 @@
+# TODO
+
+<!-- next-id: 4 -->
+
+Single source of truth for everything I plan to do.
+Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
+
+Format of a task line:
+
+```
+- [ ] #ID (P2) Short actionable title  @area  #tag  due:YYYY-MM-DD
+```
+
+- `#ID` is a stable serial number, assigned once and never reused; see `next-id` above
+- `(P1)` urgent / important, `(P2)` normal, `(P3)` nice to have
+- `@area` = life area or project (`@work`, `@home`, `@health`, ...)
+- `due:` is optional; omit it rather than inventing a date
+
+---
+
+## Now
+Actively being worked on. Keep this to 3 items or fewer.
+
+_Nothing yet._
+
+## Next
+Committed to, but not started yet.
+
+- [ ] #2 (P1) Investigate and create JIRA for the TODO issue Glenn reported in Teams 2026-09-08 (refs: Östlund, Sara Norlund)  @work
+- [ ] #3 (P2) Add JIRA ticket for QC Overview issues in CRM (from Henrik)  @work  → [notes/qc-overview-crm-jira.md](notes/qc-overview-crm-jira.md)
+
+## Waiting
+Blocked on someone or something else. Note who/what and since when.
+
+_Nothing yet._
+
+## Someday / Maybe
+Ideas without a commitment. Safe to ignore for weeks.
+
+_Nothing yet._
+
+## Recurring
+Things that come back on a schedule. These stay here instead of moving to `DONE.md`;
+just update `last:` when done.
+
+_Nothing yet._
