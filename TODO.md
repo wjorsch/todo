@@ -1,6 +1,6 @@
 # TODO
 
-<!-- next-id: 8 -->
+<!-- next-id: 9 -->
 
 Single source of truth for everything I plan to do.
 Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
@@ -28,6 +28,7 @@ Committed to, but not started yet.
 - [ ] #4 (P2) Set up remote git repo  @meta
 - [ ] #7 (P2) Investigate Emils osTicket, and answer. Create JIRA if needed.  @work
 - [ ] #8 (P2) Verify my open tasks in osTicket and close those fixed. For the open one, verify if JIRA exists and create if not.  @work
+- [ ] #9 (P2) Start backlog job in Cursor  @work
 
 ## Waiting
 Blocked on someone or something else. Note who/what and since when.
