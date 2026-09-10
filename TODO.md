@@ -21,8 +21,6 @@ Format of a task line:
 ## Now
 Actively being worked on. Keep this to 3 items or fewer.
 
-- [ ] #6 (P2) Deploy Quality page to prod  @work
-
 ## Next
 Committed to, but not started yet.
 
