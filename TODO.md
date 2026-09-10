@@ -32,7 +32,7 @@ Committed to, but not started yet.
 - [ ] #4 (P2) Set up remote git repo  @meta
 - [ ] #7 (P2) Investigate Emils osTicket, and answer. Create JIRA if needed.  @work
 - [ ] #10 (P2) Implement QUAN-2723  @work
-- [ ] #11 (P2) Implement QUAN-2724  @work
+- [ ] #11 (P2) Implement QUAN-2724 & QUAN-2725 — Ref: osTicket 466955  @work
 
 ## Waiting
 Blocked on someone or something else. Note who/what and since when.
