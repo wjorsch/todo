@@ -22,7 +22,7 @@ See "Why one file" below.
 ## Task format
 
 ```
-- [ ] #ID (P2) Short actionable title  @area  #tag  due:YYYY-MM-DD
+- [ ] #ID (P2) Short actionable title  started:YYYY-MM-DD  @area  #tag  due:YYYY-MM-DD
 ```
 
 - Start the title with a verb: "Call the dentist", not "Dentist".
@@ -33,6 +33,7 @@ See "Why one file" below.
   The next free ID is tracked in the `<!-- next-id: N -->` comment near the top of
   `TODO.md`; bump it by one each time a task is added.
 - Priority is `(P1)`, `(P2)` or `(P3)`. Default to `(P2)`.
+- Add `started:YYYY-MM-DD` when work begins; keep the original start date unchanged.
 - `@area` is mandatory, `#tag` and `due:` are optional.
 - Never invent a due date. If I did not give one, leave it out.
 
@@ -48,9 +49,10 @@ put the new task in `Next` and tell me instead of quietly overflowing it.
 1. **Adding a task**: append it to the correct section of `TODO.md`. Do not reorder or
    rewrite the tasks around it.
 2. **Completing a task**: remove the line from `TODO.md` and append it to the current
-   month's section in `DONE.md` as `- [x] #ID YYYY-MM-DD  <title>  @area`, keeping its
-   original `#ID`. Create the month heading if it is missing. Never delete a task
-   without archiving it.
+   month's section in `DONE.md` as `- [x] #ID YYYY-MM-DD  started:YYYY-MM-DD  <title>  @area`,
+   keeping its original `#ID`. If no start date was recorded, use the completion date
+   once when archiving it. Create the month heading if it is missing. Never delete a
+   task without archiving it.
 3. **Recurring tasks** are not archived. Update their `last:YYYY-MM-DD` in place.
 4. **Never rewrite or reflow the whole file.** Make the smallest edit that does the job;
    these files are diffed and read by a human.

@@ -8,12 +8,13 @@ Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [D
 Format of a task line:
 
 ```
-- [ ] #ID (P2) Short actionable title  @area  #tag  due:YYYY-MM-DD
+- [ ] #ID (P2) Short actionable title  started:YYYY-MM-DD  @area  #tag  due:YYYY-MM-DD
 ```
 
 - `#ID` is a stable serial number, assigned once and never reused; see `next-id` above
 - `(P1)` urgent / important, `(P2)` normal, `(P3)` nice to have
 - `@area` = life area or project (`@work`, `@home`, `@health`, ...)
+- `started:` is added when work begins and records the actual start date
 - `due:` is optional; omit it rather than inventing a date
 
 ---
@@ -21,8 +22,8 @@ Format of a task line:
 ## Now
 Actively being worked on. Keep this to 3 items or fewer.
 
-- [ ] #8 (P2) Verify my open tasks in osTicket and close those fixed. For the open one, verify if JIRA exists and create if not.  @work
-- [ ] #9 (P2) Start backlog job in Cursor — Note: Job started 2026-09-10  @work
+- [ ] #8 (P2) Verify my open tasks in osTicket and close those fixed. For the open one, verify if JIRA exists and create if not.  started:2026-09-10  @work
+- [ ] #9 (P2) Start backlog job in Cursor  started:2026-09-10  @work
 
 ## Next
 Committed to, but not started yet.
