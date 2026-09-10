@@ -21,7 +21,6 @@ Format of a task line:
 ## Now
 Actively being worked on. Keep this to 3 items or fewer.
 
-- [ ] #5 (P2) Implement JIRA tasks QUAN-2675 and QUAN-2676  @work
 - [ ] #6 (P2) Deploy Quality page to prod  @work
 
 ## Next
