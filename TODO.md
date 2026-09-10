@@ -21,6 +21,7 @@ Format of a task line:
 ## Now
 Actively being worked on. Keep this to 3 items or fewer.
 
+- [ ] #8 (P2) Verify my open tasks in osTicket and close those fixed. For the open one, verify if JIRA exists and create if not.  @work
 - [ ] #9 (P2) Start backlog job in Cursor  @work
 
 ## Next
@@ -29,7 +30,6 @@ Committed to, but not started yet.
 - [ ] #2 (P1) Investigate and create JIRA for the TODO issue Glenn reported in Teams 2026-09-08 (refs: Östlund, Sara Norlund)  @work
 - [ ] #4 (P2) Set up remote git repo  @meta
 - [ ] #7 (P2) Investigate Emils osTicket, and answer. Create JIRA if needed.  @work
-- [ ] #8 (P2) Verify my open tasks in osTicket and close those fixed. For the open one, verify if JIRA exists and create if not.  @work
 
 ## Waiting
 Blocked on someone or something else. Note who/what and since when.
