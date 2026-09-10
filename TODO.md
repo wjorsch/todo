@@ -1,6 +1,6 @@
 # TODO
 
-<!-- next-id: 6 -->
+<!-- next-id: 7 -->
 
 Single source of truth for everything I plan to do.
 Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
@@ -28,6 +28,7 @@ Committed to, but not started yet.
 
 - [ ] #4 (P2) Set up remote git repo  @meta
 - [ ] #5 (P2) Implement JIRA tasks QUAN-2675 and QUAN-2676  @work
+- [ ] #6 (P2) Deploy Quality page to prod  @work
 
 ## Waiting
 Blocked on someone or something else. Note who/what and since when.
