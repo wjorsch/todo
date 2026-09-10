@@ -1,6 +1,6 @@
 # TODO
 
-<!-- next-id: 11 -->
+<!-- next-id: 12 -->
 
 Single source of truth for everything I plan to do.
 Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
@@ -32,6 +32,7 @@ Committed to, but not started yet.
 - [ ] #4 (P2) Set up remote git repo  @meta
 - [ ] #7 (P2) Investigate Emils osTicket, and answer. Create JIRA if needed.  @work
 - [ ] #10 (P2) Implement QUAN-2723  @work
+- [ ] #11 (P2) Implement QUAN-2724  @work
 
 ## Waiting
 Blocked on someone or something else. Note who/what and since when.
