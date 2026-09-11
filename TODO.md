@@ -1,6 +1,6 @@
 # TODO
 
-<!-- next-id: 14 -->
+<!-- next-id: 15 -->
 
 Single source of truth for everything I plan to do.
 Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
@@ -35,6 +35,7 @@ Committed to, but not started yet.
 - [ ] #11 (P2) Implement QUAN-2724 & QUAN-2725 — Ref: osTicket 466955  @work
 - [ ] #12 (P2) Enskild firma  → [notes/enskild-firma.md](notes/enskild-firma.md)  @work
 - [ ] #13 (P1) Look at the missing upload issue Ihor reported when manually signing an agreement in CRM  @work
+- [ ] #14 (P2) Add dropdown on create manual company to select company type  @work
 
 ## Waiting
 Blocked on someone or something else. Note who/what and since when.
