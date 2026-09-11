@@ -13,7 +13,7 @@ Format of a task line:
 
 - `#ID` is a stable serial number, assigned once and never reused; see `next-id` above
 - `(P1)` urgent / important, `(P2)` normal, `(P3)` nice to have
-- `@area` = life area or project (`@work`, `@home`, `@health`, ...)
+- `@area` = project or operational area (`@work`, `@meta`, ...)
 - `started:` is added when work begins and records the actual start date
 - `due:` is optional; omit it rather than inventing a date
 

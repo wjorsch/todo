@@ -27,7 +27,7 @@ See "Why one file" below.
 
 - Start the title with a verb: "Call the dentist", not "Dentist".
 - One line per task. If it does not fit on one line, it is a project — give it a
-  file in `notes/` and link to it: `- [ ] #ID (P2) Rebuild the deck  @home  → [notes/deck.md](notes/deck.md)`.
+  file in `notes/` and link to it: `- [ ] #ID (P2) Rebuild the deck  @work  → [notes/deck.md](notes/deck.md)`.
 - `#ID` is a serial number so tasks can be referred to unambiguously (e.g. "close #7").
   It is assigned once, when the task is created, and never reused or renumbered.
   The next free ID is tracked in the `<!-- next-id: N -->` comment near the top of
@@ -35,6 +35,7 @@ See "Why one file" below.
 - Priority is `(P1)`, `(P2)` or `(P3)`. Default to `(P2)`.
 - Add `started:YYYY-MM-DD` when work begins; keep the original start date unchanged.
 - `@area` is mandatory, `#tag` and `due:` are optional.
+- Never suggest `@home` as an area; this is not a leisure TODO list.
 - Never invent a due date. If I did not give one, leave it out.
 
 ## Sections in `TODO.md`
