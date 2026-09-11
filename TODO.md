@@ -33,7 +33,7 @@ Committed to, but not started yet.
 - [ ] #7 (P2) Investigate Emils osTicket, and answer. Create JIRA if needed.  @work
 - [ ] #10 (P2) Implement QUAN-2723  @work
 - [ ] #11 (P2) Implement QUAN-2724 & QUAN-2725 — Ref: osTicket 466955  @work
-- [ ] #12 (P2) Utred stöd för Enskild firma  → [notes/enskild-firma.md](notes/enskild-firma.md)  @work
+- [ ] #12 (P2) Enskild firma  → [notes/enskild-firma.md](notes/enskild-firma.md)  @work
 
 ## Waiting
 Blocked on someone or something else. Note who/what and since when.
