@@ -1,6 +1,6 @@
 # TODO
 
-<!-- next-id: 16 -->
+<!-- next-id: 17 -->
 
 Single source of truth for everything I plan to do.
 Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
@@ -29,6 +29,7 @@ Actively being worked on. Keep this to 3 items or fewer.
 ## Next
 Committed to, but not started yet.
 
+- [ ] #16 (P1) Fix bug QUAN-2732  @work
 - [ ] #2 (P1) Investigate and create JIRA for the TODO issue Glenn reported in Teams 2026-09-08 (refs: Östlund, Sara Norlund)  → [notes/todo-2.md](notes/todo-2.md)  @work
 - [ ] #4 (P2) Set up remote git repo  @meta
 - [ ] #7 (P2) Investigate Emils osTicket, and answer. Create JIRA if needed.  @work
