@@ -24,7 +24,7 @@ Actively being worked on. Keep this to 3 items or fewer.
 
 - [ ] #8 (P2) Verify my open tasks in osTicket and close those fixed. For the open one, verify if JIRA exists and create if not.  started:2026-09-10  @work
 - [ ] #9 (P2) Start backlog job in Cursor  started:2026-09-10  @work
-- [ ] #15 (P2) Implement QUAN-2729  started:2026-09-14  @work
+- [ ] #15 (P2) Implement QUAN-2729 — Note: Resume with junie --session-id session-260914-095724-136y  started:2026-09-14  @work
 
 ## Next
 Committed to, but not started yet.
