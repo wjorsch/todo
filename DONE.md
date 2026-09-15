@@ -15,6 +15,7 @@ The first date is the day it was completed; `started:` records when work began.
 
 ## 2026-09
 
+- [x] #15 2026-09-15  started:2026-09-14  Implement QUAN-2729 — Note: Resume with junie --session-id session-260914-095724-136y  @work
 - [x] #16 2026-09-14  started:2026-09-14  Fix bug QUAN-2732  @work
 - [x] #6 2026-09-10  started:2026-09-10  Deploy Quality page to prod — Note: Database migration failed, backfilling data exceeded timeout. Had to do it all manually.  @work
 - [x] #5 2026-09-10  started:2026-09-10  Implement JIRA tasks QUAN-2675 and QUAN-2676  @work
