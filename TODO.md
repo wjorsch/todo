@@ -31,7 +31,6 @@ Committed to, but not started yet.
 - [ ] #19 (P2) Investigate QUAN-1122  @work
 - [ ] #2 (P1) Investigate and create JIRA for the TODO issue Glenn reported in Teams 2026-09-08 (refs: Östlund, Sara Norlund)  → [notes/todo-2.md](notes/todo-2.md)  @work
 - [ ] #7 (P2) Investigate Emils osTicket, and answer. Create JIRA if needed.  @work
-- [ ] #10 (P2) Implement QUAN-2723  @work
 - [ ] #11 (P2) Implement QUAN-2724 & QUAN-2725 — Ref: osTicket 466955  @work
 - [ ] #12 (P2) Enskild firma  → [notes/enskild-firma.md](notes/enskild-firma.md)  @work
 - [ ] #13 (P1) Look at the missing upload issue Ihor reported when manually signing an agreement in CRM  @work
