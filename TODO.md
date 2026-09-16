@@ -1,6 +1,6 @@
 # TODO
 
-<!-- next-id: 21 -->
+<!-- next-id: 22 -->
 
 Single source of truth for everything I plan to do.
 Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
@@ -24,6 +24,7 @@ Actively being worked on. Keep this to 3 items or fewer.
 
 - [ ] #8 (P2) Verify my open tasks in osTicket and close those fixed. For the open one, verify if JIRA exists and create if not.  started:2026-09-10  @work
 - [ ] #18 (P1) Handle QUAN-2734 - Copy evaluation from linked company  @work
+- [ ] #21 (P2) Kolla vilka softbot props som kan användas  @work
 
 ## Next
 Committed to, but not started yet.
