@@ -62,6 +62,7 @@ put the new task in `Next` and tell me instead of quietly overflowing it.
    rather than picking one silently.
 7. Use the real current date, never a placeholder.
 8. After changing any file, create a local Git commit containing the change.
+9. **Language**: All communication shall be in English, no matter the language the todos are written in. When showing the todos, keep the language in the todo.
 
 ## Why one file
 
