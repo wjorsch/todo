@@ -24,7 +24,7 @@ Actively being worked on. Keep this to 3 items or fewer.
 
 - [ ] #8 (P2) Verify my open tasks in osTicket and close those fixed. For the open one, verify if JIRA exists and create if not.  started:2026-09-10  @work
 - [ ] #18 (P1) Handle QUAN-2734 - Copy evaluation from linked company  @work
-- [ ] #11 (P2) Implement QUAN-2724 & QUAN-2725 — Ref: osTicket 466955  @work
+- [ ] #11 (P2) Implement QUAN-2724 & QUAN-2725 — Ref: osTicket 466955 — Note: QUAN-2724 Resume junie session "junie --session-id session-260916-090212-ybk2"  @work
 
 ## Next
 Committed to, but not started yet.
