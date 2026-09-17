@@ -1,6 +1,6 @@
 # TODO
 
-<!-- next-id: 22 -->
+<!-- next-id: 23 -->
 
 Single source of truth for everything I plan to do.
 Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
@@ -37,6 +37,7 @@ Committed to, but not started yet.
 - [ ] #13 (P1) Look at the missing upload issue Ihor reported when manually signing an agreement in CRM  @work
 - [ ] #14 (P2) Add dropdown on create manual company to select company type  @work
 - [ ] #17 (P2) Investigate why AWS logs doesn't work in Verify  @work
+- [ ] #22 (P1) Skapa JIRA för 400-fel när man kör rapport och väljer Källa / Strategisk kontakt  @work
 
 ## Waiting
 Blocked on someone or something else. Note who/what and since when.
