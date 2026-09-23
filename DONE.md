@@ -15,6 +15,7 @@ The first date is the day it was completed; `started:` records when work began.
 
 ## 2026-09
 
+- [x] #26 2026-09-23  started:2026-09-23  Link Agent repo to MD files in CRM and Sign  @work
 - [x] #24 2026-09-23  started:2026-09-23  Implement use of planner-svc in crm-svc and get list of open planner projects on company  @work
 - [x] #10 2026-09-16  started:2026-09-16  Implement QUAN-2723  @work
 - [x] #4 2026-09-11  started:2026-09-11  Set up remote git repo  @meta

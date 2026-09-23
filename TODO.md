@@ -28,7 +28,6 @@ Actively being worked on. Keep this to 3 items or fewer.
 ## Next
 Committed to, but not started yet.
 
-- [ ] #26 (P2) Link Agent repo to MD files in CRM and Sign  @work
 - [ ] #25 (P2) Fix QUAN-2770  @work
 - [ ] #20 (P2) Implement QUAN-2628  @work
 - [ ] #19 (P2) Investigate QUAN-1122  @work
