@@ -15,6 +15,7 @@ The first date is the day it was completed; `started:` records when work began.
 
 ## 2026-09
 
+- [x] #24 2026-09-23  started:2026-09-23  Implement use of planner-svc in crm-svc and get list of open planner projects on company  @work
 - [x] #10 2026-09-16  started:2026-09-16  Implement QUAN-2723  @work
 - [x] #4 2026-09-11  started:2026-09-11  Set up remote git repo  @meta
 - [x] #15 2026-09-15  started:2026-09-14  Implement QUAN-2729 — Note: Resume with junie --session-id session-260914-095724-136y  @work
@@ -24,4 +25,3 @@ The first date is the day it was completed; `started:` records when work began.
 - [x] #1 2026-09-09  started:2026-09-09  Decide how I want to use this todo list day to day  @meta
 - [x] #3 2026-09-09  started:2026-09-09  Add JIRA ticket for QC Overview issues in CRM (from Henrik)  @work
 - [x] #21 2026-09-16  started:2026-09-16  Kolla vilka softbot props som kan användas  @work
-- [x] #2 2026-09-23  started:2026-09-23  Investigate and create JIRA for the TODO issue Glenn reported in Teams 2026-09-08 (refs: Östlund, Sara Norlund)  → [notes/todo-2.md](notes/todo-2.md)  @work

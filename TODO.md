@@ -22,7 +22,6 @@ Format of a task line:
 ## Now
 Actively being worked on. Keep this to 3 items or fewer.
 
-- [ ] #24 (P2) Implement use of planner-svc in crm-svc and get list of open planner projects on company  @work
 - [ ] #18 (P1) Handle QUAN-2734 - Copy evaluation from linked company  @work
 - [ ] #11 (P2) Implement QUAN-2724 & QUAN-2725 — Ref: osTicket 466955 — Note: QUAN-2724 Resume junie session "junie --session-id session-260916-090212-ybk2"  @work
 
@@ -33,6 +32,7 @@ Committed to, but not started yet.
 - [ ] #25 (P2) Fix QUAN-2770  @work
 - [ ] #20 (P2) Implement QUAN-2628  @work
 - [ ] #19 (P2) Investigate QUAN-1122  @work
+- [ ] #2 (P1) Investigate and create JIRA for the TODO issue Glenn reported in Teams 2026-09-08 (refs: Östlund, Sara Norlund)  → [notes/todo-2.md](notes/todo-2.md)  @work
 - [ ] #7 (P2) Investigate Emils osTicket, and answer. Create JIRA if needed.  @work
 - [ ] #12 (P2) Enskild firma  → [notes/enskild-firma.md](notes/enskild-firma.md)  @work
 - [ ] #13 (P1) Look at the missing upload issue Ihor reported when manually signing an agreement in CRM  @work
