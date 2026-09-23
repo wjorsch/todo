@@ -1,6 +1,6 @@
 # TODO
 
-<!-- next-id: 27 -->
+<!-- next-id: 28 -->
 
 Single source of truth for everything I plan to do.
 Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
@@ -24,6 +24,7 @@ Actively being worked on. Keep this to 3 items or fewer.
 
 - [ ] #18 (P1) Handle QUAN-2734 - Copy evaluation from linked company  @work
 - [ ] #11 (P2) Implement QUAN-2724 & QUAN-2725 — Ref: osTicket 466955 — Note: QUAN-2724 Resume junie session "junie --session-id session-260916-090212-ybk2"  @work
+- [ ] #27 (P2) Merge to beta: QUAN-2770  started:2026-09-23  @work
 
 ## Next
 Committed to, but not started yet.
