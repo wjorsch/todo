@@ -33,7 +33,7 @@ Committed to, but not started yet.
 - [ ] #19 (P2) Investigate QUAN-1122  @work
 - [ ] #2 (P1) Investigate and create JIRA for the TODO issue Glenn reported in Teams 2026-09-08 (refs: Östlund, Sara Norlund)  → [notes/todo-2.md](notes/todo-2.md)  @work
 - [ ] #7 (P2) Investigate Emils osTicket, and answer. Create JIRA if needed.  @work
-- [ ] #12 (P2) Enskild firma  → [notes/enskild-firma.md](notes/enskild-firma.md)  @work
+- [ ] #12 (P2) Enskild firma — Note: QUAN-2655  → [notes/enskild-firma.md](notes/enskild-firma.md)  @work
 - [ ] #13 (P1) Look at the missing upload issue Ihor reported when manually signing an agreement in CRM  @work
 - [ ] #14 (P2) Add dropdown on create manual company to select company type  @work
 - [ ] #17 (P2) Investigate why AWS logs doesn't work in Verify  @work
