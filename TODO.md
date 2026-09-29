@@ -1,6 +1,6 @@
 # TODO
 
-<!-- next-id: 31 -->
+<!-- next-id: 32 -->
 
 Single source of truth for everything I plan to do.
 Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
@@ -42,6 +42,7 @@ Committed to, but not started yet.
 - [ ] #23 (P2) Add logging to Senseworks-svc and investigate JSON parse errors  @work
 - [ ] #28 (P2) Set up e2e project in CRM to enable fully automated tests  @work
 - [ ] #29 (P1) Synka kunder från CRM till Senseworks  @work
+- [ ] #31 (P1) Fix QUAN-2829  @work
 
 ## Waiting
 Blocked on someone or something else. Note who/what and since when.
