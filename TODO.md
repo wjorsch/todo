@@ -1,6 +1,6 @@
 # TODO
 
-<!-- next-id: 30 -->
+<!-- next-id: 31 -->
 
 Single source of truth for everything I plan to do.
 Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
@@ -24,6 +24,7 @@ Actively being worked on. Keep this to 3 items or fewer.
 
 - [ ] #18 (P1) Handle QUAN-2734 - Copy evaluation from linked company  @work
 - [ ] #11 (P2) Implement QUAN-2724 & QUAN-2725 — Ref: osTicket 466955 — Note: QUAN-2724 Resume junie session "junie --session-id session-260916-090212-ybk2"  @work
+- [ ] #30 (P1) Get property list for softbots and document it for agent-assisted rule setup  → [notes/softbots.md](notes/softbots.md)  @work
 
 ## Next
 Committed to, but not started yet.
