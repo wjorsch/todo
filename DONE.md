@@ -27,3 +27,4 @@ The first date is the day it was completed; `started:` records when work began.
 - [x] #1 2026-09-09  started:2026-09-09  Decide how I want to use this todo list day to day  @meta
 - [x] #3 2026-09-09  started:2026-09-09  Add JIRA ticket for QC Overview issues in CRM (from Henrik)  @work
 - [x] #21 2026-09-16  started:2026-09-16  Kolla vilka softbot props som kan användas  @work
+- [x] #30 2026-09-29  started:2026-09-29  Get property list for softbots and document it for agent-assisted rule setup  @work
