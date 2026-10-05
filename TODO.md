@@ -1,6 +1,6 @@
 # TODO
 
-<!-- next-id: 32 -->
+<!-- next-id: 33 -->
 
 Single source of truth for everything I plan to do.
 Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
@@ -42,6 +42,7 @@ Committed to, but not started yet.
 - [ ] #28 (P2) Set up e2e project in CRM to enable fully automated tests  @work
 - [ ] #29 (P1) Synka kunder från CRM till Senseworks  @work
 - [ ] #31 (P1) Fix QUAN-2829  @work
+- [ ] #32 (P2) Create en epic or story och raffinera den — lösa dokumentuppladdning i tjänstemallar innan avtalsskickning  @work
 
 ## Waiting
 Blocked on someone or something else. Note who/what and since when.
