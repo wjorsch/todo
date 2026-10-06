@@ -34,7 +34,6 @@ Committed to, but not started yet.
 - [ ] #29 (P1) Synka kunder från CRM till Senseworks  @work
 - [ ] #31 (P1) Fix QUAN-2829  @work
 - [ ] #34 (P1) Verify AGENTS.md and more in all repos, so it matches ai-docs  @work
-- [ ] #7 (P2) Investigate Emils osTicket, and answer. Create JIRA if needed.  @work
 - [ ] #12 (P2) Enskild firma — Note: QUAN-2655  → [notes/enskild-firma.md](notes/enskild-firma.md)  @work
 - [ ] #14 (P2) Add dropdown on create manual company to select company type  @work
 - [ ] #17 (P2) Investigate why AWS logs doesn't work in Verify  @work
