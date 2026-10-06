@@ -47,8 +47,11 @@ put the new task in `Next` and tell me instead of quietly overflowing it.
 
 ## Workflow rules for agents
 
-1. **Adding a task**: append it to the correct section of `TODO.md`. Do not reorder or
-   rewrite the tasks around it.
+1. **Adding a task**: append it to the correct section of `TODO.md`, placing it in the
+   proper sort position.  Within each section, tasks are sorted by priority first (P1
+   before P2 before P3), then by due date or started date (earliest first; tasks without
+   a date come after those with one), and finally by task number (ascending).  Do not
+   reorder or rewrite the surrounding tasks unless their sort order is already wrong.
 2. **Completing a task**: remove the line from `TODO.md` and append it to the current
    month's section in `DONE.md` as `- [x] #ID YYYY-MM-DD  started:YYYY-MM-DD  <title>  @area`,
    keeping its original `#ID`. If no start date was recorded, use the completion date
