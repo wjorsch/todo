@@ -13,6 +13,11 @@ The first date is the day it was completed; `started:` records when work began.
 
 ---
 
+## 2026-10
+
+- [x] #8 2026-10-06  started:2026-09-10  Verify my open tasks in osTicket and close those fixed. For the open one, verify if JIRA exists and create if not.  @work
+- [x] #9 2026-10-06  started:2026-09-10  Start backlog job in Cursor  @work
+
 ## 2026-09
 
 - [x] #27 2026-09-24  started:2026-09-23  Merge to beta: QUAN-2770  @work

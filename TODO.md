@@ -48,8 +48,7 @@ Committed to, but not started yet.
 ## Waiting
 Blocked on someone or something else. Note who/what and since when.
 
-- [ ] #8 (P2) Verify my open tasks in osTicket and close those fixed. For the open one, verify if JIRA exists and create if not.  started:2026-09-10  @work
-- [ ] #9 (P2) Start backlog job in Cursor  started:2026-09-10  @work
+_Nothing yet._
 
 ## Someday / Maybe
 Ideas without a commitment. Safe to ignore for weeks.
