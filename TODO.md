@@ -22,12 +22,12 @@ Format of a task line:
 ## Now
 Actively being worked on. Keep this to 3 items or fewer.
 
-- [ ] #18 (P1) Handle QUAN-2734 - Copy evaluation from linked company  @work
-- [ ] #11 (P2) Implement QUAN-2724 & QUAN-2725 — Ref: osTicket 466955 — Note: QUAN-2724 Resume junie session "junie --session-id session-260916-090212-ybk2"  @work
+_Nothing right now._
 
 ## Next
 Committed to, but not started yet.
 
+- [ ] #18 (P1) Handle QUAN-2734 - Copy evaluation from linked company  @work
 - [ ] #35 (P1) Fix Anttis issues in CRM  @work
 - [ ] #2 (P1) Investigate and create JIRA for the TODO issue Glenn reported in Teams 2026-09-08 (refs: Östlund, Sara Norlund)  → [notes/todo-2.md](notes/todo-2.md)  @work
 - [ ] #13 (P1) Look at the missing upload issue Ihor reported when manually signing an agreement in CRM  @work
@@ -35,6 +35,7 @@ Committed to, but not started yet.
 - [ ] #29 (P1) Synka kunder från CRM till Senseworks  @work
 - [ ] #31 (P1) Fix QUAN-2829  @work
 - [ ] #34 (P1) Verify AGENTS.md and more in all repos, so it matches ai-docs  @work
+- [ ] #11 (P2) Implement QUAN-2724 & QUAN-2725 — Ref: osTicket 466955 — Note: QUAN-2724 Resume junie session "junie --session-id session-260916-090212-ybk2"  @work
 - [ ] #12 (P2) Enskild firma — Note: QUAN-2655  → [notes/enskild-firma.md](notes/enskild-firma.md)  @work
 - [ ] #14 (P2) Add dropdown on create manual company to select company type  @work
 - [ ] #17 (P2) Investigate why AWS logs doesn't work in Verify  @work
