@@ -1,6 +1,6 @@
 # TODO
 
-<!-- next-id: 37 -->
+<!-- next-id: 38 -->
 
 Single source of truth for everything I plan to do.
 Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
@@ -23,6 +23,7 @@ Format of a task line:
 Actively being worked on. Keep this to 3 items or fewer.
 
 - [ ] #36 (P2) Deploy CDK changes automatically started:2026-10-12 @work
+- [ ] #37 (P2) Fix CRM error in Beta and verify if chromium and PDF concatenation works started:2026-10-12 @work
 
 ## Next
 Committed to, but not started yet.
