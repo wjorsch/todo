@@ -1,6 +1,6 @@
 # TODO
 
-<!-- next-id: 35 -->
+<!-- next-id: 36 -->
 
 Single source of truth for everything I plan to do.
 Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
@@ -28,6 +28,7 @@ Actively being worked on. Keep this to 3 items or fewer.
 ## Next
 Committed to, but not started yet.
 
+- [ ] #35 (P1) Fix Anttis issues in CRM  @work
 - [ ] #2 (P1) Investigate and create JIRA for the TODO issue Glenn reported in Teams 2026-09-08 (refs: Östlund, Sara Norlund)  → [notes/todo-2.md](notes/todo-2.md)  @work
 - [ ] #13 (P1) Look at the missing upload issue Ihor reported when manually signing an agreement in CRM  @work
 - [ ] #22 (P1) Skapa JIRA för 400-fel när man kör rapport och väljer Källa / Strategisk kontakt  @work
