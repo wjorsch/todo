@@ -1,6 +1,6 @@
 # TODO
 
-<!-- next-id: 36 -->
+<!-- next-id: 37 -->
 
 Single source of truth for everything I plan to do.
 Conventions and workflow: see [AGENTS.md](AGENTS.md). Completed items move to [DONE.md](DONE.md).
@@ -22,7 +22,7 @@ Format of a task line:
 ## Now
 Actively being worked on. Keep this to 3 items or fewer.
 
-_Nothing right now._
+- [ ] #36 (P2) Deploy CDK changes automatically started:2026-10-12 @work
 
 ## Next
 Committed to, but not started yet.
